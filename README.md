@@ -9,4 +9,7 @@ We need a model to map those texts into our categories
 
 So I try to find solution with NLP
 
-This version I only use word2vec to try my model
+This version I only use 
+- TfidfTransformer 
+- CountVectorizer
+to try my model
